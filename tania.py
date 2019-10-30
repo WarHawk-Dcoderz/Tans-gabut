@@ -39,8 +39,8 @@ def spamsms():
  os.system('cd spamsms')
  os.system('php spamsms.php')
  
- def kamera():
-     print(f'[!] Menginstall tools  sadap kamera..')
+def saycheese():
+ print(f'[!] Menginstall tools kamera..')
  os.system('cd saycheese')
  os.system('bash saycheese.sh')
  
@@ -90,4 +90,4 @@ elif menu == "4":cekip()
 elif menu == "5":sms()
 elif menu == "6":call()
 elif menu == "7":spamsms()
-elif menu == "8":kamera()
+elif menu == "8":saycheese()
