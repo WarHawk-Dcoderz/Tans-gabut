@@ -23,7 +23,6 @@ def cekip():
  
 def sms():
  print(f'[!] Menginstall tools sms..')
- os.system('cd sms')
  os.system('python sms.py')
  
 import random
