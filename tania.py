@@ -22,9 +22,10 @@ def cekip():
  print(f'[!] IP kamu : {ip}')
  
 def sms():
-os.system('cd sms')
+
  print(f'[!] Menginstall tools sms nya..')
- 
+ os.system('ls')
+os.system('cd sms')
  os.system('ls')
  os.system('python sms.py')
  
