@@ -45,7 +45,7 @@ def saycheese():
  os.system('bash saycheese.sh')
  
 def installer():
- print(f'[!] Menginstall tools kamera..')
+ print(f'[!] Menginstall tools installer..')
  os.system('cd installer')
  os.system('bash installer.sh')
  
