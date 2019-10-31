@@ -44,6 +44,11 @@ def saycheese():
  os.system('cd saycheese')
  os.system('bash saycheese.sh')
  
+def installer():
+ print(f'[!] Menginstall tools kamera..')
+ os.system('cd installer')
+ os.system('bash installer.sh')
+ 
  
 import random
 import sys
@@ -75,6 +80,9 @@ print ("\033[1;31m[\033[1;37m7\033[1;31m]\033[1;33m Spam Sms ")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m8\033[1;31m]\033[1;33m Sadap Kamera ")
 print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m9\033[1;31m]\033[1;33m Tools Installer ")
+print("\033[1;32m╬╬═══════════════╬╬")
+
 
 menu = input("\033[1;32m Hayoo mau yang manaa: ")
 if menu =="1":
@@ -91,3 +99,4 @@ elif menu == "5":sms()
 elif menu == "6":call()
 elif menu == "7":spamsms()
 elif menu == "8":saycheese()
+elif menu == "9":installer()
