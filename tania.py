@@ -64,6 +64,7 @@ def kereta():
 
 def edan():
  print(f'[!] Menginstall tools Kak edan..')
+ os.system('ls')
  os.system('cd kak-edan')
  os.system('python2 kak-edan.py')
  
