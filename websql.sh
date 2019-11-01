@@ -1,152 +1,152 @@
 clear
  echo    ❛ ━━━━━･━━━━━━･━━━━━━･❪ ❁ ❫ ･━━━━━━ ━━━━━･━━━━━━･❜
  echo   Author:Tania
- echo    WA   : echo  echo echo https://wa.me/+628993307590
+ echo    WA   :  https://wa.me/+628993307590
  echo    ❛ ━━━━━･━━━━━━･━━━━━━･❪ ❁ ❫ ･━━━━━━ ━━━━━･━━━━━━･❜
 
  
- echo    echo echo http://www.crystalindonesia.co.id/news/newsdetail.php?id=3
+ echo    echo  http://www.crystalindonesia.co.id/news/newsdetail.php?id=3
  echo  
- echo    echo echo http://www.metanoiapublishing.com/publishing/author_detail.php?id=15
+ echo    echo  http://www.metanoiapublishing.com/publishing/author_detail.php?id=15
  echo  
- echo    echo echo http://jjstour.com/tours_detail.php?id=284
+ echo    echo  http://jjstour.com/tours_detail.php?id=284
  echo  
- echo    echo echo http://www.citranashwatour.com/others.php?id=294
- echo    echo echo http://www.jatengpromo.com/artikel.php?id=117
+ echo    echo  http://www.citranashwatour.com/others.php?id=294
+ echo    echo  http://www.jatengpromo.com/artikel.php?id=117
  echo  
   echo  
-  echo echo http://matadorcountry.com/detailnews.php?id=2485
+  echo  http://matadorcountry.com/detailnews.php?id=2485
  echo  
  echo   
-  echo echo http://www.rumahfiqih.com/artikel_.php?id=5
+  echo  http://www.rumahfiqih.com/artikel_.php?id=5
  echo  
  echo   
-  echo echo http://www.pudak-scientific.com/detail_products.php?id=259
+  echo  http://www.pudak-scientific.com/detail_products.php?id=259
  echo  
  echo  
-  echo echo http://www.rshva.com/berita-detil.php?id=6
+  echo  http://www.rshva.com/berita-detil.php?id=6
  echo  
  echo  
-  echo echo http://www.vivocondom.com/news-detail.php?id=1
+  echo  http://www.vivocondom.com/news-detail.php?id=1
  echo  
  echo  
-  echo echo http://www.anekaholiday.com/product_detail.php?id=333
+  echo  http://www.anekaholiday.com/product_detail.php?id=333
  echo  
  echo  
-  echo echo http://akademika.iba.ac.id/gtkarir/berita/fo-detail.php?id=8
+  echo  http://akademika.iba.ac.id/gtkarir/berita/fo-detail.php?id=8
  echo  
  echo  
-  echo echo http://sinemart.com/news.php?id=407
+  echo  http://sinemart.com/news.php?id=407
  echo  
  echo  
-  echo echo http://mypets.co.id/detailnews.php?id=15
+  echo  http://mypets.co.id/detailnews.php?id=15
  echo  
  echo  
-  echo echo http://www.aringocomputer.com/product.php?id=17
+  echo  http://www.aringocomputer.com/product.php?id=17
  echo  
  echo  
-  echo echo http://www.hasnurgroup.com/lowongan.php?id=1
+  echo  http://www.hasnurgroup.com/lowongan.php?id=1
  echo  
  echo  
-  echo echo http://www.savalihotel.com/holiday-index.php?id=1
+  echo  http://www.savalihotel.com/holiday-index.php?id=1
  echo  
  echo  
-  echo echo http://krlmania.com/sinyal/read.php?id=2142
+  echo  http://krlmania.com/sinyal/read.php?id=2142
  echo  
  echo  
-  echo echo http://rsiabundasuryatni.com/artikel.php?id=142
+  echo  http://rsiabundasuryatni.com/artikel.php?id=142
  echo  
  echo  
-  echo echo http://home-klik.com/product_detail.php?id=112
+  echo  http://home-klik.com/product_detail.php?id=112
  echo  
  echo  
-  echo echo http://seputarkediri.com/health/seputar-kediri.php?id=145
+  echo  http://seputarkediri.com/health/seputar-kediri.php?id=145
  echo  
  echo  
   echo echo http://www.ptbnk.com/product/detail.php?id=1
  echo  
  echo  
-  echo echo http://www.pdw-architects.com/news.php?id=26
+  echo  http://www.pdw-architects.com/news.php?id=26
  echo  
  echo  
-  echo echo http://www.herjandi.com/article.php?id=21
+  echo  http://www.herjandi.com/article.php?id=21
  echo  
  echo  
-  echo echo http://www.produkabe.com/majakani.php?id=bisnisviden
+  echo  http://www.produkabe.com/majakani.php?id=bisnisviden
  echo  
  echo  
-  echo echo http://pelitaindonesia.ac.id/hapusupload.php?id=116
+  echo  http://pelitaindonesia.ac.id/hapusupload.php?id=116
  echo  
  echo  
-  echo echo http://hikmakaryapersada.com/artikel.php?id=32
+  echo  http://hikmakaryapersada.com/artikel.php?id=32
  echo  
  echo  
-  echo echo http://www.krlmania.com/gado/read.php?id=703
+  echo  http://www.krlmania.com/gado/read.php?id=703
  echo  
  echo  
-  echo echo http://www.dblindonesia.com/loop/newsdetail.php?id=10994
+  echo  http://www.dblindonesia.com/loop/newsdetail.php?id=10994
  echo  
  echo  
-  echo echo http://jagiradvertising.com/detail_produk.php?id=15
+  echo  http://jagiradvertising.com/detail_produk.php?id=15
  echo  
  echo  
-  echo echo http://www.kafispolgama.or.id/umum_detail.php?id=2
+  echo  http://www.kafispolgama.or.id/umum_detail.php?id=2
  echo  
  echo  
-  echo echo http://www.indonesianship.com/beritaisi.php?ID=2582
+  echo  http://www.indonesianship.com/beritaisi.php?ID=2582
  echo  
  echo  
-  echo echo http://www.vivocondom.com/news-detail.php?id=1
+  echo  http://www.vivocondom.com/news-detail.php?id=1
  echo  
  echo  
-  echo echo http://stasolar.com/kategori.php?id=6
+  echo  http://stasolar.com/kategori.php?id=6
  echo  
  echo  
-  echo echo http://roboticsindonesia.com/blog-view.php?id=36
+  echo  http://roboticsindonesia.com/blog-view.php?id=36
  echo  
  echo  
-  echo echo http://www.kaoscouple-jakarta.com/readnews.php?id=16
+  echo  http://www.kaoscouple-jakarta.com/readnews.php?id=16
  echo  
  echo  
-  echo echo http://www.tiketpesawatkita.com/?id=nanaz/artikel.php?id=18
+  echo  http://www.tiketpesawatkita.com/?id=nanaz/artikel.php?id=18
  echo  
  echo  
-  echo echo http://www.imahseniman.com/room-detail.php?r=Junior
+  echo  http://www.imahseniman.com/room-detail.php?r=Junior
  echo  
  echo  
-  echo echo http://boslampu.com/help.php?id=7
+  echo  http://boslampu.com/help.php?id=7
  echo  
  echo  
-  echo echo http://citranashwatour.com/international.php?id=223
+  echo  http://citranashwatour.com/international.php?id=223
  echo  
  echo  
-  echo echo http://www.josstoday.com/single_foto.php?id=823
+  echo  http://www.josstoday.com/single_foto.php?id=823
  echo  
  echo  
-  echo echo http://herjandi.com/event.php?id=12
+  echo  http://herjandi.com/event.php?id=12
  echo  
  echo  
-  echo echo http://www.home-klik.com/product_detail.php?id=32
+  echo  http://www.home-klik.com/product_detail.php?id=32
  echo  
  echo  
-  echo echo http://www.sas-autoparts.com/toko.php?id=Semarang
+  echo  http://www.sas-autoparts.com/toko.php?id=Semarang
  echo  
  echo  
-  echo echo http://www.pd-bprbkktemanggung.com/detail-produk.php?id=5
+  echo  http://www.pd-bprbkktemanggung.com/detail-produk.php?id=5
  echo  
  echo  
-  echo echo http://kssy-medan.com/konten.php?id=15
+  echo  http://kssy-medan.com/konten.php?id=15
  echo  
  echo  
-  echo echo http://wahanatraining.com/page.php?id=3
+  echo  http://wahanatraining.com/page.php?id=3
  echo  
  echo  
-  echo echo http://www.andisucirta.com/blog_detail.php?id=70
+  echo  http://www.andisucirta.com/blog_detail.php?id=70
  echo  
  echo  
-  echo echo http://www.thisiselma.com/id/news-detail.php?id=25
+  echo  http://www.thisiselma.com/id/news-detail.php?id=25
  echo  
- echo echo http://www.lila-travel.com/promo_murah.php?id=12
+ echo  http://www.lila-travel.com/promo_murah.php?id=12
  echo  
  echo  
  echo http://nalivimss.edu.bd/nali/view_gallery_meetings?page=1
