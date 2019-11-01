@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-from wongedan import *
 
 print (endec())
 #compile marshall by Mr.w0n63d4n
