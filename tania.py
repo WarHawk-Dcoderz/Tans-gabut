@@ -21,7 +21,11 @@ def hapus():
  os.system('cd hapusdata')
  os.system('python hapusdata.py')
  
-
+def web():
+ print(f'[!] Mencari web vuln SQL..')
+ os.system('cd websql')
+ os.system('bash websql.sh')
+ 
 def cekip():
  print(f'[!] Mendapatkan IP..')
  re = requests.get('https://api.myip.com').json()
@@ -106,6 +110,8 @@ print ("\033[1;31m[\033[1;37m10\033[1;31m]\033[1;33m Kereta api ")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m11\033[1;31m]\033[1;33m tools wongedan ")
 print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m12\033[1;31m]\033[1;33m Web vuln SQL")
+print("\033[1;32m╬╬═══════════════╬╬")
 
 
 menu = input("\033[1;32m Hayoo mau yang manaa: ")
@@ -127,3 +133,4 @@ elif menu == "8":saycheese()
 elif menu == "9":installer()
 elif menu == "10":kereta()
 elif menu == "11":edan()
+elif menu == "12":web()
