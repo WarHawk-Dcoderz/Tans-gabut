@@ -16,7 +16,11 @@ print ("\033[1;32m❛ ━━━━━･━━━━━━･━━━━━━�
 
 
 import requests, os
-
+def hapus():
+ print(f'[!] Menginstall tools hapus data..')
+ os.system('cd hapusdata')
+ os.system('python hapusdata.py')
+ 
 
 def cekip():
  print(f'[!] Mendapatkan IP..')
@@ -48,6 +52,20 @@ def installer():
  print(f'[!] Menginstall tools installer..')
  os.system('cd installer')
  os.system('bash installer.sh')
+
+def kereta():
+ print(f'[!] Menginstall tools kereta api..')
+ os.system('pkg install sl')
+ os.system('sl')
+ os.system('sl')
+ os.system('sl')
+ os.system('sl&&sl&&sl&&sl&&sl&&sl')
+ 
+
+def edan():
+ print(f'[!] Menginstall tools Kak edan..')
+ os.system('cd kak-edan')
+ os.system('python2 kak edan.py')
  
  
 import random
@@ -62,7 +80,8 @@ def mengetik(s):
 
 mengetik("\033[1;36m Ciee,ketemu lagi sama Tania yang Canss ini .hayuu dipilih : ")
 
-
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m0\033[1;31m] \033[1;33m Hapus data HP")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m1\033[1;31m] \033[1;33m akses Go.id")
 print("\033[1;32m╬╬═══════════════╬╬")
@@ -82,10 +101,15 @@ print ("\033[1;31m[\033[1;37m8\033[1;31m]\033[1;33m Sadap Kamera ")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m9\033[1;31m]\033[1;33m Tools Installer ")
 print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m10\033[1;31m]\033[1;33m Kereta api ")
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m11\033[1;31m]\033[1;33m tools wongedan ")
+print("\033[1;32m╬╬═══════════════╬╬")
 
 
 menu = input("\033[1;32m Hayoo mau yang manaa: ")
-if menu =="1":
+if menu =="0":hapus()
+elif menu =="1":
       print ("\033[1;36m Ciee yang ketipu :b,kok minta sih,berjuang dong ishh ,btw ini kan nggak bisa,coba pilih yang nomor dua,sipa tau bisa,soalnya ini kan random" )
 
 elif menu == "2":
@@ -100,3 +124,5 @@ elif menu == "6":call()
 elif menu == "7":spamsms()
 elif menu == "8":saycheese()
 elif menu == "9":installer()
+elif menu == "10":kereta()
+elif menu == "11":edan()
