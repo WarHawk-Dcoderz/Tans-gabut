@@ -1,1 +1,367 @@
-<?php eval("?>".base64_decode("IyBXQVJOQQ0KJGJpcnUgPSAiZVszNG0iOw0KJGt1bmluZyA9ICJlWzMzbSI7DQokY3lhbiA9ICJlWzk2bSI7DQokbWFnZW50YSA9ICJlWzM1bSI7DQokaGlqYXUgPSAiZVs5Mm0iOw0KJG1lcmFoID0gImVbOTFtIjsNCmVjaG8gIiRjeWFuICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyNuIjsNCmVjaG8gIiRiaXJ1IEF1dG8gVmlzaXRvciBCbG9nZ2VyIHdlYnNpdGUgbiI7DQplY2hvICIkbWVyYWggQ3JlYXRlZEJ5IDogR1VOQVdBTiBJRG4iOw0KZWNobyAiJG1hZ2VudGEgUkVDT0RFRCBCWTpUQU5JQW4iOw0KZWNobyAiJGhpamF1IENvbnRhY3QgTWU6ICs2MjgzODk2NTM2NTQ3IE9SICs2Mjg5OTMzMDc1OTBuIjsNCmVjaG8gIiRrdW5pbmcgVGhhbmtzIHRvIDogWWFuZyBidWF0IHRlcm11eG4iOw0KZWNobyAiJGN5YW4gIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI24iOw0KZWNobyAiJGt1bmluZyBNYXN1a2FuIFNhbGFoIFNhdHUgTGluayBQb3N0aW5nYW5uIFdlYiBLYWxpYW4gRGkgQmF3YWggSW5pbiI7DQplY2hvICIkaGlqYXUgWzFdIE1hc3VrYW4gTGluayBQb3N0aW5nYW4gV2ViIDogIjsgDQokdXJsID0gdHJpbShmZ2V0cyhTVERJTikpOw0KZWNobyAiJGN5YW4gWzJdIE1hc3VrYW4gSnVtbGFoIFZpc2l0IDogIjsgDQokbWF4ID0gdHJpbShmZ2V0cyhTVERJTikpOw0KDQplcnJvcl9yZXBvcnRpbmcoMCk7DQpjbGFzcyBSYW5kb21fVUENCiB7DQogICAgDQogICAgLyoqDQogICAgICogDQogICAgICovIA0KICAgIHZhciAkbGludXhfcHJvYzsNCiAgICAvKioNCiAgICAgKiANCiAgICAgKi8NCiAgICB2YXIgJG1hY19wcm9jOw0KICAgIA0KICAgIC8qKg0KICAgICAqIEENCiAgICAgKi8NCiAgICB2YXIgJGxhbmc7DQogICAgDQogICAgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQ0KICAgIHsNCiAgICAgICAgJHRoaXMtPmxpbnV4X3Byb2MgPSBhcnJheSgNCiAgICAgICAgICAgICdpNjg2JywNCiAgICAgICAgICAgICd4ODZfNjQnDQogICAgICAgICk7DQogICAgICAgIA0KICAgICAgICAkdGhpcy0+bWFjX3Byb2MgPSBhcnJheSgNCiAgICAgICAgICAgICdJbnRlbCcsDQogICAgICAgICAgICAnUFBDJywNCiAgICAgICAgICAgICdVOyBJbnRlbCcsDQogICAgICAgICAgICAnVTsgUFBDJw0KICAgICAgICApOw0KICAgICAgICANCiAgICAgICAgJHRoaXMtPmxhbmcgPSBhcnJheSgNCiAgICAgICAgICAgICdlbi1VUycsDQogICAgICAgICAgICAnc2wtU0knDQogICAgICAgICk7DQogICAgfQ0KICAgIA0KICAgIGZ1bmN0aW9uIGZpcmVmb3goKSB7DQogICAgICAgICR2ZXIgPSBhcnJheSgNCiAgICAJJ0dlY2tvLycgLiBkYXRlKCdZbWQnLCByYW5kKHN0cnRvdGltZSgnMjAxMS0xLTEnKSwgbWt0aW1lKCkpKSAuICcgRmlyZWZveC8nIC4gcmFuZCg1LCA3KSAuICcuMCcsDQogICAgCSdHZWNrby8nIC4gZGF0ZSgnWW1kJywgcmFuZChzdHJ0b3RpbWUoJzIwMTEtMS0xJyksIG1rdGltZSgpKSkgLiAnIEZpcmVmb3gvJyAuIHJhbmQoNSwgNykgLiAnLjAuMScsDQogICAgCSdHZWNrby8nIC4gZGF0ZSgnWW1kJywgcmFuZChzdHJ0b3RpbWUoJzIwMTAtMS0xJyksIG1rdGltZSgpKSkgLiAnIEZpcmVmb3gvMy42LicgLiByYW5kKDEsIDIwKSwNCiAgICAJJ0dlY2tvLycgLiBkYXRlKCdZbWQnLCByYW5kKHN0cnRvdGltZSgnMjAxMC0xLTEnKSwgbWt0aW1lKCkpKSAuICcgRmlyZWZveC8zLjgnDQogICAgICAgICk7DQogICAgDQogICAgICAgICRwbGF0Zm9ybXMgPSBhcnJheSgNCiAgICAJJyhXaW5kb3dzIE5UICcgLiByYW5kKDUsIDYpIC4gJy4nIC4gcmFuZCgwLCAxKSAuICc7ICcgLiAkdGhpcy0+bGFuZ1thcnJheV9yYW5kKCR0aGlzLT5sYW5nLCAxKV0gLiAnOyBydjoxLjkuJyAuIHJhbmQoMCwgMikgLiAnLjIwKSAnIC4gJHZlclthcnJheV9yYW5kKCR2ZXIsIDEpXSwNCiAgICAJJyhYMTE7IExpbnV4ICcgLiAkdGhpcy0+bGludXhfcHJvY1thcnJheV9yYW5kKCR0aGlzLT5saW51eF9wcm9jLCAxKV0gLiAnOyBydjonIC4gcmFuZCg1LCA3KSAuICcuMCkgJyAuICR2ZXJbYXJyYXlfcmFuZCgkdmVyLCAxKV0sDQogICAgCScoTWFjaW50b3NoOyAnIC4gJHRoaXMtPm1hY19wcm9jW2FycmF5X3JhbmQoJHRoaXMtPm1hY19wcm9jLCAxKV0gLiAnIE1hYyBPUyBYIDEwXycgLiByYW5kKDUsIDcpIC4gJ18nIC4gcmFuZCgwLCA5KSAuICcgcnY6JyAuIHJhbmQoMiwgNikgLiAnLjApICcgLiAkdmVyW2FycmF5X3JhbmQoJHZlciwgMSldDQogICAgICAgICk7DQogICAgDQogICAgICAgIHJldHVybiAkcGxhdGZvcm1zW2FycmF5X3JhbmQoJHBsYXRmb3JtcywgMSldOw0KICAgIH0NCiAgICANCiAgICBmdW5jdGlvbiBzYWZhcmkoKSB7DQogICAgICAgICRzYWYgPSByYW5kKDUzMSwgNTM1KSAuICcuJyAuIHJhbmQoMSwgNTApIC4gJy4nIC4gcmFuZCgxLCA3KTsNCiAgICAgICAgaWYgKHJhbmQoMCwgMSkgPT0gMCkgew0KICAgIAkkdmVyID0gcmFuZCg0LCA1KSAuICcuJyAuIHJhbmQoMCwgMSk7DQogICAgICAgIH0gZWxzZSB7DQogICAgCSR2ZXIgPSByYW5kKDQsIDUpIC4gJy4wLicgLiByYW5kKDEsIDUpOw0KICAgICAgICB9DQogICAgDQogICAgICAgICRwbGF0Zm9ybXMgPSBhcnJheSgNCiAgICAJJyhXaW5kb3dzOyBVOyBXaW5kb3dzIE5UICcgLiByYW5kKDUsIDYpIC4gJy4nIC4gcmFuZCgwLCAxKSAuICIpIEFwcGxlV2ViS2l0LyRzYWYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLyR2ZXIgU2FmYXJpLyRzYWYiLA0KICAgIAknKE1hY2ludG9zaDsgVTsgJyAuICR0aGlzLT5tYWNfcHJvY1thcnJheV9yYW5kKCR0aGlzLT5tYWNfcHJvYywgMSldIC4gJyBNYWMgT1MgWCAxMF8nIC4gcmFuZCg1LCA3KSAuICdfJyAuIHJhbmQoMCwgOSkgLiAnIHJ2OicgLiByYW5kKDIsIDYpIC4gJy4wOyAnIC4gJHRoaXMtPmxhbmdbYXJyYXlfcmFuZCgkdGhpcy0+bGFuZywgMSldIC4gIikgQXBwbGVXZWJLaXQvJHNhZiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vJHZlciBTYWZhcmkvJHNhZiIsDQogICAgCScoaVBvZDsgVTsgQ1BVIGlQaG9uZSBPUyAnIC4gcmFuZCgzLCA0KSAuICdfJyAuIHJhbmQoMCwgMykgLiAnIGxpa2UgTWFjIE9TIFg7ICcgLiAkdGhpcy0+bGFuZ1thcnJheV9yYW5kKCR0aGlzLT5sYW5nLCAxKV0gLiAiKSBBcHBsZVdlYktpdC8kc2FmIChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8iIC4gcmFuZCgzLCA0KSAuICIuMC41IE1vYmlsZS84QiIgLiByYW5kKDExMSwgMTE5KSAuICIgU2FmYXJpLzYkc2FmIiwNCiAgICAgICAgKTsNCiAgICANCiAgICAgICAgcmV0dXJuICRwbGF0Zm9ybXNbYXJyYXlfcmFuZCgkcGxhdGZvcm1zLCAxKV07DQogICAgfQ0KICAgIA0KICAgIGZ1bmN0aW9uIGlleHBsb3JlcigpIHsNCiAgICAgICAgJGllX2V4dHJhID0gYXJyYXkoDQogICAgCScnLA0KICAgIAknOyAuTkVUIENMUiAxLjEuJyAuIHJhbmQoNDMyMCwgNDMyNSkgLiAnJywNCiAgICAJJzsgV09XNjQnDQogICAgICAgICk7DQogICAgICAgICRwbGF0Zm9ybXMgPSBhcnJheSgNCiAgICAJJyhjb21wYXRpYmxlOyBNU0lFICcgLiByYW5kKDUsIDkpIC4gJy4wOyBXaW5kb3dzIE5UICcgLiByYW5kKDUsIDYpIC4gJy4nIC4gcmFuZCgwLCAxKSAuICc7IFRyaWRlbnQvJyAuIHJhbmQoMywgNSkgLiAnLicgLiByYW5kKDAsIDEpIC4gJyknDQogICAgICAgICk7DQogICAgDQogICAgICAgIHJldHVybiAkcGxhdGZvcm1zW2FycmF5X3JhbmQoJHBsYXRmb3JtcywgMSldOw0KICAgIH0NCiAgICANCiAgICBmdW5jdGlvbiBvcGVyYSgpIHsNCiAgICAgICAgJG9wX2V4dHJhID0gYXJyYXkoDQogICAgCScnLA0KICAgIAknOyAuTkVUIENMUiAxLjEuJyAuIHJhbmQoNDMyMCwgNDMyNSkgLiAnJywNCiAgICAJJzsgV09XNjQnDQogICAgICAgICk7DQogICAgICAgICRwbGF0Zm9ybXMgPSBhcnJheSgNCiAgICAJJyhYMTE7IExpbnV4ICcgLiAkdGhpcy0+bGludXhfcHJvY1thcnJheV9yYW5kKCR0aGlzLT5saW51eF9wcm9jLCAxKV0gLiAnOyBVOyAnIC4gJHRoaXMtPmxhbmdbYXJyYXlfcmFuZCgkdGhpcy0+bGFuZywgMSldIC4gJykgUHJlc3RvLzIuOS4nIC4gcmFuZCgxNjAsIDE5MCkgLiAnIFZlcnNpb24vJyAuIHJhbmQoMTAsIDEyKSAuICcuMDAnLA0KICAgIAknKFdpbmRvd3MgTlQgJyAuIHJhbmQoNSwgNikgLiAnLicgLiByYW5kKDAsIDEpIC4gJzsgVTsgJyAuICR0aGlzLT5sYW5nW2FycmF5X3JhbmQoJHRoaXMtPmxhbmcsIDEpXSAuICcpIFByZXN0by8yLjkuJyAuIHJhbmQoMTYwLCAxOTApIC4gJyBWZXJzaW9uLycgLiByYW5kKDEwLCAxMikgLiAnLjAwJw0KICAgICAgICApOw0KICAgIA0KICAgICAgICByZXR1cm4gJHBsYXRmb3Jtc1thcnJheV9yYW5kKCRwbGF0Zm9ybXMsIDEpXTsNCiAgICB9DQogICAgDQogICAgZnVuY3Rpb24gY2hyb21lKCkgew0KICAgICAgICAkc2FmID0gcmFuZCg1MzEsIDUzNikgLiByYW5kKDAsIDIpOw0KICAgIA0KICAgICAgICAkcGxhdGZvcm1zID0gYXJyYXkoDQogICAgCScoWDExOyBMaW51eCAnIC4gJHRoaXMtPmxpbnV4X3Byb2NbYXJyYXlfcmFuZCgkdGhpcy0+bGludXhfcHJvYywgMSldIC4gIikgQXBwbGVXZWJLaXQvJHNhZiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8iIC4gcmFuZCgxMywgMTUpIC4gJy4wLicgLiByYW5kKDgwMCwgODk5KSAuICIuMCBTYWZhcmkvJHNhZiIsDQogICAgCScoV2luZG93cyBOVCAnIC4gcmFuZCg1LCA2KSAuICcuJyAuIHJhbmQoMCwgMSkgLiAiKSBBcHBsZVdlYktpdC8kc2FmIChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLyIgLiByYW5kKDEzLCAxNSkgLiAnLjAuJyAuIHJhbmQoODAwLCA4OTkpIC4gIi4wIFNhZmFyaS8kc2FmIiwNCiAgICAJJyhNYWNpbnRvc2g7IFU7ICcgLiAkdGhpcy0+bWFjX3Byb2NbYXJyYXlfcmFuZCgkdGhpcy0+bWFjX3Byb2MsIDEpXSAuICcgTWFjIE9TIFggMTBfJyAuIHJhbmQoNSwgNykgLiAnXycgLiByYW5kKDAsIDkpIC4gIikgQXBwbGVXZWJLaXQvJHNhZiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8iIC4gcmFuZCgxMywgMTUpIC4gJy4wLicgLiByYW5kKDgwMCwgODk5KSAuICIuMCBTYWZhcmkvJHNhZiINCiAgICAgICAgKTsNCiAgICANCiAgICAgICAgcmV0dXJuICRwbGF0Zm9ybXNbYXJyYXlfcmFuZCgkcGxhdGZvcm1zLCAxKV07DQogICAgfQ0KICAgIA0KICAgIC8qKg0KICAgICAqIE1haW4gZnVuY3Rpb24gd2hpY2ggd2lsbCBjaG9vc2UgcmFuZG9tIGJyb3dzZXINCiAgICAgKiBAcmV0dXJuIHN0cmluZyB1c2VyIGFnZW50DQogICAgICovDQogICAgZnVuY3Rpb24gZ2VuZXJhdGUoKSB7DQogICAgICAgICR4ID0gcmFuZCgxLCA1KTsNCiAgICAgICAgc3dpdGNoICgkeCkgew0KICAgIAljYXNlIDE6DQogICAgCSAgICByZXR1cm4gIk1vemlsbGEvNS4wICIgLiAkdGhpcy0+ZmlyZWZveCgpOw0KICAgIAkgICAgYnJlYWs7DQogICAgCWNhc2UgMjoNCiAgICAJICAgIHJldHVybiAiTW96aWxsYS81LjAgIiAuICR0aGlzLT5zYWZhcmkoKTsNCiAgICAJICAgIGJyZWFrOw0KICAgIAljYXNlIDM6DQogICAgCSAgICByZXR1cm4gIk1vemlsbGEvIiAuIHJhbmQoNCwgNSkgLiAiLjAgIiAuICR0aGlzLT5pZXhwbG9yZXIoKTsNCiAgICAJICAgIGJyZWFrOw0KICAgIAljYXNlIDQ6DQogICAgCSAgICByZXR1cm4gIk9wZXJhLyIgLiByYW5kKDgsIDkpIC4gJy4nIC4gcmFuZCgxMCwgOTkpIC4gJyAnIC4gJHRoaXMtPm9wZXJhKCk7DQogICAgCSAgICBicmVhazsNCiAgICAJY2FzZSA1Og0KICAgIAkgICAgcmV0dXJuICdNb3ppbGxhLzUuMCcgLiAkdGhpcy0+Y2hyb21lKCk7DQogICAgCSAgICBicmVhazsNCiAgICAgICAgfQ0KICAgIH0NCiAgICANCn0NCg0KY2xhc3MgYXV0b3Zpc2l0b3IgZXh0ZW5kcyBSYW5kb21fVUEgew0KDQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCR1cmwpIHsNCgkJJHRoaXMtPnVybCA9ICR1cmw7DQoJfQ0KDQoJcHJpdmF0ZSBmdW5jdGlvbiBjdXJsKCkgew0KCQkkY2ggPSBjdXJsX2luaXQoKTsNCgkJQ1VSTF9TRVRPUFQoJGNoLCBDVVJMT1BUX1VSTCwgJHRoaXMtPnVybCk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9IVFRQSEVBREVSLCBhcnJheSgnUmVmZXJlcjogJy4kdGhpcy0+YWNha1JlZmVyZXIoKSwNCgkJCQkJCQkJCQkJCSAgICdVc2VyLUFnZW50OiAnLiR0aGlzLT5nZW5lcmF0ZSgpKSk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9GT0xMT1dMT0NBVElPTiwgdHJ1ZSk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCwgMCk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiwgMCk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgMSk7DQoJCUNVUkxfU0VUT1BUKCRjaCwgQ1VSTE9QVF9VU0VSQUdFTlQsICR0aGlzLT5nZW5lcmF0ZSgpKTsNCgkJJHJlc3VsdCA9IGN1cmxfZXhlYygkY2gpOw0KCQljdXJsX2Nsb3NlKCRjaCk7DQoNCgkJcmV0dXJuICRyZXN1bHQ7DQoJfQ0KDQoJcHJpdmF0ZSBmdW5jdGlvbiB4Zmx1c2goKSB7DQogICAgCXN0YXRpYyAkb3V0cHV0X2hhbmRsZXIgPSBudWxsOw0KICAgIAlpZiAoJG91dHB1dF9oYW5kbGVyID09PSBudWxsKSB7DQogICAgICAgIAkkb3V0cHV0X2hhbmRsZXIgPSBAaW5pX2dldCgnb3V0cHV0X2hhbmRsZXInKTsNCiAgICAJfQ0KICAgIAlpZiAoJG91dHB1dF9oYW5kbGVyID09ICdvYl9nemhhbmRsZXInKSB7DQogICAgICAgIAlyZXR1cm47DQogICAgCX0NCiAgICAJZmx1c2goKTsNCiAgICAJaWYgKGZ1bmN0aW9uX2V4aXN0cygnb2JfZmx1c2gnKSBBTkQgZnVuY3Rpb25fZXhpc3RzKCdvYl9nZXRfbGVuZ3RoJykgQU5EIG9iX2dldF9sZW5ndGgoKSAhPT0gZmFsc2UpIHsNCiAgICAgICAJCUBvYl9mbHVzaCgpOw0KICAgIAl9IGVsc2UgaWYgKGZ1bmN0aW9uX2V4aXN0cygnb2JfZW5kX2ZsdXNoJykgQU5EIGZ1bmN0aW9uX2V4aXN0cygnb2Jfc3RhcnQnKSBBTkQgZnVuY3Rpb25fZXhpc3RzKCdvYl9nZXRfbGVuZ3RoJykgQU5EIG9iX2dldF9sZW5ndGgoKSAhPT0gRkFMU0UpIHsNCiAgICAgICAJCUBvYl9lbmRfZmx1c2goKTsNCiAgICAgICAgCUBvYl9zdGFydCgpOw0KICAgIAl9DQoJfQ0KDQoJcHJpdmF0ZSBmdW5jdGlvbiBhY2FrUmVmZXJlcigpIHsNCgkJJGxpc3QgPSBhcnJheSgpOw0KCQkvKiBBc2FsIHRyYWZmaWMgeWFuZyBkaSBzdWJtaXQgKi8gDQoJCSRsaXN0W10gPSAiaHR0cDovL2ZhY2Vib29rLmNvbSI7DQoJCSRsaXN0W10gPSAiaHR0cDovL3R3aXR0ZXIuY29tIjsNCgkJJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20iOw0KCQkkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5hZiI7DQoJCSRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuYXMiOw0KIAkgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLm9mZi5haSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmFnIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5hbSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmF1IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5hdCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuYXoiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5iaCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmJkIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5iZSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmJ6IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uYm8iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmJhIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby5idyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmJyIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS52ZyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuYmciOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmJpIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jYSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY2wiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNuIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uY28iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNkIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jZyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28uY2siOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvLmNyIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5ociI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmN1IjsNCgkJJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jeiI7DQogCSAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY2kiOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmRrIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5kaiI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuZG0iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5kbyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmVjIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uZWciOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5zdiI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuZWUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5ldCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmZqIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5maSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuZnIiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmdtIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5kZSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLmdpIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uZ3IiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmdsIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5nZyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuZ3QiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmh0IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uaGsiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5obiI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuaHUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmlzIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby5pZCI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28uaW4iOw0KCQkkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmllIjsNCiAJICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby5pbSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuaXQiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmlsIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uaW0iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvLmplIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby5qcCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuam8iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmt6IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5rZyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28ua2UiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmx2IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby5scyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28ubHkiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmxpIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5sdCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUubHUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLm13IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20ubXkiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5tdCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUubXUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmZtIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20ubXgiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLm1uIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5tcyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28ubWEiOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5uYSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLm5wIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5ubCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28ubnoiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5uaSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLm5mIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5ubyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLm9tIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20ucGsiOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5wYSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLnB5IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20ucGUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5wbiI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLnBoIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5wbCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUucHQiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5wciI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUucm8iOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5xYSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUucnUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLnJ3IjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5zaCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuc20iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS5zYSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuc24iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLnNjIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20uc2ciOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLnNrIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5zaSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28uemEiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvLmtyIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5lcyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUubGsiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuYmVpbnl1LmNvbSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLnZjIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5zZSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY2giOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS50dyI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY29tLnRqIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby50aCI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuYnMiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLnRvIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS50dCI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cHM6Ly9zZWFyY2gueWFob28uY29tIjsNCiAgICAgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20udHIiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLnRtIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jby52aSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28udWciOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS51YSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuYWUiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly90d2l0dGVyLmNvbSI7DQogICAgICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28udWsiOw0KICAgICAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvbS51eSI7DQoJICAgICRsaXN0W10gPSAiaHR0cDovL3d3dy5nb29nbGUuY28udXoiOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly9mYWNlYm9vay5jb20iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvLnZlIjsNCgkgICAgJGxpc3RbXSA9ICJodHRwOi8vd3d3Lmdvb2dsZS5jb20udm4iOw0KCSAgICAkbGlzdFtdID0gImh0dHA6Ly93d3cuZ29vZ2xlLmNvLnptIjsNCiAgICAgICAgDQoNCgkJJGFjYWsgPSBhcnJheV9yYW5kKCRsaXN0LDEpOw0KCQlyZXR1cm4gJGxpc3RbJGFjYWtdOw0KCX0NCg0KCXB1YmxpYyBmdW5jdGlvbiBqYWxhbmthbigpIHsNCgkJJHRoaXMtPnhmbHVzaCgpOw0KDQoJCSR0aGlzLT5jdXJsKCk7DQoJCXJldHVybiAkdGhpcy0+YWNha1JlZmVyZXIoKTsgDQoNCgkJJHRoaXMtPnhmbHVzaCgpOw0KCX0NCg0KfSANCg0KZm9yKCRpID0gMTsgJGkgPCAkbWF4KzE7ICRpKyspIHsNCgkkY2xhc3MgPSBuZXcgYXV0b3Zpc2l0b3IoJHVybCk7DQoJZWNobyAkaS4iLiBbMjAwT0tdIFNVS1NFUyBNRU5HSVJJTSB+IFsiLiRjbGFzcy0+amFsYW5rYW4oKS4iXW4iOw0KfQ==")); ?>
+<?php
+# WARNA
+$biru = "\e[34m";
+$kuning = "\e[33m";
+$cyan = "\e[96m";
+$magenta = "\e[35m";
+$hijau = "\e[92m";
+$merah = "\e[91m";
+echo "$cyan #################################################\n";
+echo "$biru Auto Visitor Blogger website \n";
+echo "$merah CreatedBy : GUNAWAN ID\n";
+echo "$magenta RECODED BY:TANIA\n";
+echo "$hijau Contact Me: +6283896536547 OR +628993307590\n";
+echo "$kuning Thanks to : Yang buat termux\n";
+echo "$cyan #################################################\n";
+echo "$kuning Masukan Salah Satu Link Postingan\n Web Kalian Di Bawah Ini\n";
+echo "$hijau [1] Masukan Link Postingan Web : "; 
+$url = trim(fgets(STDIN));
+echo "$cyan [2] Masukan Jumlah Visit : "; 
+$max = trim(fgets(STDIN));
+
+error_reporting(0);
+class Random_UA
+ {
+    
+    /**
+     * 
+     */ 
+    var $linux_proc;
+    /**
+     * 
+     */
+    var $mac_proc;
+    
+    /**
+     * A
+     */
+    var $lang;
+    
+    function __construct()
+    {
+        $this->linux_proc = array(
+            'i686',
+            'x86_64'
+        );
+        
+        $this->mac_proc = array(
+            'Intel',
+            'PPC',
+            'U; Intel',
+            'U; PPC'
+        );
+        
+        $this->lang = array(
+            'en-US',
+            'sl-SI'
+        );
+    }
+    
+    function firefox() {
+        $ver = array(
+    	'Gecko/' . date('Ymd', rand(strtotime('2011-1-1'), mktime())) . ' Firefox/' . rand(5, 7) . '.0',
+    	'Gecko/' . date('Ymd', rand(strtotime('2011-1-1'), mktime())) . ' Firefox/' . rand(5, 7) . '.0.1',
+    	'Gecko/' . date('Ymd', rand(strtotime('2010-1-1'), mktime())) . ' Firefox/3.6.' . rand(1, 20),
+    	'Gecko/' . date('Ymd', rand(strtotime('2010-1-1'), mktime())) . ' Firefox/3.8'
+        );
+    
+        $platforms = array(
+    	'(Windows NT ' . rand(5, 6) . '.' . rand(0, 1) . '; ' . $this->lang[array_rand($this->lang, 1)] . '; rv:1.9.' . rand(0, 2) . '.20) ' . $ver[array_rand($ver, 1)],
+    	'(X11; Linux ' . $this->linux_proc[array_rand($this->linux_proc, 1)] . '; rv:' . rand(5, 7) . '.0) ' . $ver[array_rand($ver, 1)],
+    	'(Macintosh; ' . $this->mac_proc[array_rand($this->mac_proc, 1)] . ' Mac OS X 10_' . rand(5, 7) . '_' . rand(0, 9) . ' rv:' . rand(2, 6) . '.0) ' . $ver[array_rand($ver, 1)]
+        );
+    
+        return $platforms[array_rand($platforms, 1)];
+    }
+    
+    function safari() {
+        $saf = rand(531, 535) . '.' . rand(1, 50) . '.' . rand(1, 7);
+        if (rand(0, 1) == 0) {
+    	$ver = rand(4, 5) . '.' . rand(0, 1);
+        } else {
+    	$ver = rand(4, 5) . '.0.' . rand(1, 5);
+        }
+    
+        $platforms = array(
+    	'(Windows; U; Windows NT ' . rand(5, 6) . '.' . rand(0, 1) . ") AppleWebKit/$saf (KHTML, like Gecko) Version/$ver Safari/$saf",
+    	'(Macintosh; U; ' . $this->mac_proc[array_rand($this->mac_proc, 1)] . ' Mac OS X 10_' . rand(5, 7) . '_' . rand(0, 9) . ' rv:' . rand(2, 6) . '.0; ' . $this->lang[array_rand($this->lang, 1)] . ") AppleWebKit/$saf (KHTML, like Gecko) Version/$ver Safari/$saf",
+    	'(iPod; U; CPU iPhone OS ' . rand(3, 4) . '_' . rand(0, 3) . ' like Mac OS X; ' . $this->lang[array_rand($this->lang, 1)] . ") AppleWebKit/$saf (KHTML, like Gecko) Version/" . rand(3, 4) . ".0.5 Mobile/8B" . rand(111, 119) . " Safari/6$saf",
+        );
+    
+        return $platforms[array_rand($platforms, 1)];
+    }
+    
+    function iexplorer() {
+        $ie_extra = array(
+    	'',
+    	'; .NET CLR 1.1.' . rand(4320, 4325) . '',
+    	'; WOW64'
+        );
+        $platforms = array(
+    	'(compatible; MSIE ' . rand(5, 9) . '.0; Windows NT ' . rand(5, 6) . '.' . rand(0, 1) . '; Trident/' . rand(3, 5) . '.' . rand(0, 1) . ')'
+        );
+    
+        return $platforms[array_rand($platforms, 1)];
+    }
+    
+    function opera() {
+        $op_extra = array(
+    	'',
+    	'; .NET CLR 1.1.' . rand(4320, 4325) . '',
+    	'; WOW64'
+        );
+        $platforms = array(
+    	'(X11; Linux ' . $this->linux_proc[array_rand($this->linux_proc, 1)] . '; U; ' . $this->lang[array_rand($this->lang, 1)] . ') Presto/2.9.' . rand(160, 190) . ' Version/' . rand(10, 12) . '.00',
+    	'(Windows NT ' . rand(5, 6) . '.' . rand(0, 1) . '; U; ' . $this->lang[array_rand($this->lang, 1)] . ') Presto/2.9.' . rand(160, 190) . ' Version/' . rand(10, 12) . '.00'
+        );
+    
+        return $platforms[array_rand($platforms, 1)];
+    }
+    
+    function chrome() {
+        $saf = rand(531, 536) . rand(0, 2);
+    
+        $platforms = array(
+    	'(X11; Linux ' . $this->linux_proc[array_rand($this->linux_proc, 1)] . ") AppleWebKit/$saf (KHTML, like Gecko) Chrome/" . rand(13, 15) . '.0.' . rand(800, 899) . ".0 Safari/$saf",
+    	'(Windows NT ' . rand(5, 6) . '.' . rand(0, 1) . ") AppleWebKit/$saf (KHTML, like Gecko) Chrome/" . rand(13, 15) . '.0.' . rand(800, 899) . ".0 Safari/$saf",
+    	'(Macintosh; U; ' . $this->mac_proc[array_rand($this->mac_proc, 1)] . ' Mac OS X 10_' . rand(5, 7) . '_' . rand(0, 9) . ") AppleWebKit/$saf (KHTML, like Gecko) Chrome/" . rand(13, 15) . '.0.' . rand(800, 899) . ".0 Safari/$saf"
+        );
+    
+        return $platforms[array_rand($platforms, 1)];
+    }
+    
+    /**
+     * Main function which will choose random browser
+     * @return string user agent
+     */
+    function generate() {
+        $x = rand(1, 5);
+        switch ($x) {
+    	case 1:
+    	    return "Mozilla/5.0 " . $this->firefox();
+    	    break;
+    	case 2:
+    	    return "Mozilla/5.0 " . $this->safari();
+    	    break;
+    	case 3:
+    	    return "Mozilla/" . rand(4, 5) . ".0 " . $this->iexplorer();
+    	    break;
+    	case 4:
+    	    return "Opera/" . rand(8, 9) . '.' . rand(10, 99) . ' ' . $this->opera();
+    	    break;
+    	case 5:
+    	    return 'Mozilla/5.0' . $this->chrome();
+    	    break;
+        }
+    }
+    
+}
+
+class autovisitor extends Random_UA {
+
+	public function __construct($url) {
+		$this->url = $url;
+	}
+
+	private function curl() {
+		$ch = curl_init();
+		CURL_SETOPT($ch, CURLOPT_URL, $this->url);
+		CURL_SETOPT($ch, CURLOPT_HTTPHEADER, array('Referer: '.$this->acakReferer(),
+												   'User-Agent: '.$this->generate()));
+		CURL_SETOPT($ch, CURLOPT_FOLLOWLOCATION, true);
+		CURL_SETOPT($ch, CURLOPT_SSL_VERIFYHOST, 0);
+		CURL_SETOPT($ch, CURLOPT_SSL_VERIFYPEER, 0);
+		CURL_SETOPT($ch, CURLOPT_RETURNTRANSFER, 1);
+		CURL_SETOPT($ch, CURLOPT_USERAGENT, $this->generate());
+		$result = curl_exec($ch);
+		curl_close($ch);
+
+		return $result;
+	}
+
+	private function xflush() {
+    	static $output_handler = null;
+    	if ($output_handler === null) {
+        	$output_handler = @ini_get('output_handler');
+    	}
+    	if ($output_handler == 'ob_gzhandler') {
+        	return;
+    	}
+    	flush();
+    	if (function_exists('ob_flush') AND function_exists('ob_get_length') AND ob_get_length() !== false) {
+       		@ob_flush();
+    	} else if (function_exists('ob_end_flush') AND function_exists('ob_start') AND function_exists('ob_get_length') AND ob_get_length() !== FALSE) {
+       		@ob_end_flush();
+        	@ob_start();
+    	}
+	}
+
+	private function acakReferer() {
+		$list = array();
+		/* Asal traffic yang di submit */ 
+		$list[] = "http://facebook.com";
+		$list[] = "http://twitter.com";
+		$list[] = "http://www.google.com";
+		$list[] = "http://www.google.com.af";
+		$list[] = "http://www.google.as";
+ 	   $list[] = "http://www.google.off.ai";
+        $list[] = "http://www.google.com.ag";
+	    $list[] = "http://www.google.am";
+	    $list[] = "http://www.google.com.au";
+	    $list[] = "http://www.google.at";
+	    $list[] = "http://www.google.az";
+	    $list[] = "http://www.google.com.bh";
+	    $list[] = "http://www.google.com.bd";
+	    $list[] = "http://www.google.be";
+	    $list[] = "http://www.google.com.bz";
+	    $list[] = "http://www.google.com.bo";
+	    $list[] = "http://www.google.ba";
+	    $list[] = "http://www.google.co.bw";
+	    $list[] = "http://www.google.com.br";
+	    $list[] = "http://www.google.vg";
+	    $list[] = "http://www.google.bg";
+	    $list[] = "http://www.google.bi";
+	    $list[] = "http://www.google.ca";
+	    $list[] = "http://www.google.cl";
+	    $list[] = "http://www.google.cn";
+	    $list[] = "http://www.google.com.co";
+	    $list[] = "http://www.google.cd";
+	    $list[] = "http://www.google.cg";
+	    $list[] = "http://www.google.co.ck";
+	    $list[] = "http://www.google.co.cr";
+        $list[] = "http://www.google.hr";
+        $list[] = "http://www.google.com.cu";
+		$list[] = "http://www.google.cz";
+ 	   $list[] = "http://www.google.ci";
+        $list[] = "http://www.google.dk";
+	    $list[] = "http://www.google.dj";
+	    $list[] = "http://www.google.dm";
+	    $list[] = "http://www.google.com.do";
+	    $list[] = "http://www.google.com.ec";
+	    $list[] = "http://www.google.com.eg";
+	    $list[] = "http://www.google.com.sv";
+	    $list[] = "http://www.google.ee";
+	    $list[] = "http://www.google.com.et";
+	    $list[] = "http://www.google.com.fj";
+	    $list[] = "http://www.google.fi";
+	    $list[] = "http://www.google.fr";
+	    $list[] = "http://www.google.gm";
+	    $list[] = "http://www.google.de";
+	    $list[] = "http://www.google.com.gi";
+	    $list[] = "http://www.google.com.gr";
+	    $list[] = "http://www.google.gl";
+	    $list[] = "http://www.google.gg";
+	    $list[] = "http://www.google.gt";
+	    $list[] = "http://www.google.ht";
+	    $list[] = "http://www.google.com.hk";
+	    $list[] = "http://www.google.com.hn";
+	    $list[] = "http://www.google.hu";
+	    $list[] = "http://www.google.is";
+        $list[] = "http://www.google.co.id";
+        $list[] = "http://www.google.co.in";
+		$list[] = "http://www.google.ie";
+ 	   $list[] = "http://www.google.co.im";
+        $list[] = "http://www.google.it";
+	    $list[] = "http://www.google.il";
+	    $list[] = "http://www.google.com.im";
+	    $list[] = "http://www.google.co.je";
+	    $list[] = "http://www.google.co.jp";
+	    $list[] = "http://www.google.jo";
+	    $list[] = "http://www.google.kz";
+	    $list[] = "http://www.google.kg";
+	    $list[] = "http://www.google.co.ke";
+	    $list[] = "http://www.google.lv";
+	    $list[] = "http://www.google.co.ls";
+	    $list[] = "http://www.google.co.ly";
+	    $list[] = "http://www.google.li";
+	    $list[] = "http://www.google.lt";
+	    $list[] = "http://www.google.lu";
+	    $list[] = "http://www.google.mw";
+	    $list[] = "http://www.google.com.my";
+	    $list[] = "http://www.google.com.mt";
+	    $list[] = "http://www.google.mu";
+	    $list[] = "http://www.google.fm";
+	    $list[] = "http://www.google.com.mx";
+	    $list[] = "http://www.google.mn";
+	    $list[] = "http://www.google.ms";
+	    $list[] = "http://www.google.co.ma";
+        $list[] = "http://www.google.com.na";
+        $list[] = "http://www.google.com.np";
+	    $list[] = "http://www.google.nl";
+	    $list[] = "http://www.google.co.nz";
+	    $list[] = "http://www.google.com.ni";
+	    $list[] = "http://www.google.com.nf";
+	    $list[] = "http://www.google.no";
+	    $list[] = "http://www.google.com.om";
+	    $list[] = "http://www.google.com.pk";
+        $list[] = "http://www.google.com.pa";
+        $list[] = "http://www.google.com.py";
+	    $list[] = "http://www.google.com.pe";
+	    $list[] = "http://www.google.com.pn";
+	    $list[] = "http://www.google.com.ph";
+	    $list[] = "http://www.google.pl";
+	    $list[] = "http://www.google.pt";
+	    $list[] = "http://www.google.com.pr";
+	    $list[] = "http://www.google.ro";
+        $list[] = "http://www.google.com.qa";
+        $list[] = "http://www.google.ru";
+	    $list[] = "http://www.google.rw";
+	    $list[] = "http://www.google.sh";
+	    $list[] = "http://www.google.sm";
+	    $list[] = "http://www.google.com.sa";
+	    $list[] = "http://www.google.sn";
+	    $list[] = "http://www.google.sc";
+	    $list[] = "http://www.google.com.sg";
+        $list[] = "http://www.google.sk";
+        $list[] = "http://www.google.si";
+	    $list[] = "http://www.google.co.za";
+	    $list[] = "http://www.google.co.kr";
+	    $list[] = "http://www.google.es";
+	    $list[] = "http://www.google.lk";
+	    $list[] = "http://www.beinyu.com";
+	    $list[] = "http://www.google.com.vc";
+        $list[] = "http://www.google.se";
+        $list[] = "http://www.google.ch";
+	    $list[] = "http://www.google.com.tw";
+	    $list[] = "http://www.google.com.tj";
+	    $list[] = "http://www.google.co.th";
+	    $list[] = "http://www.google.bs";
+	    $list[] = "http://www.google.to";
+        $list[] = "http://www.google.tt";
+        $list[] = "https://search.yahoo.com";
+        $list[] = "http://www.google.com.tr";
+	    $list[] = "http://www.google.tm";
+	    $list[] = "http://www.google.co.vi";
+	    $list[] = "http://www.google.co.ug";
+	    $list[] = "http://www.google.com.ua";
+	    $list[] = "http://www.google.ae";
+	    $list[] = "http://twitter.com";
+        $list[] = "http://www.google.co.uk";
+        $list[] = "http://www.google.com.uy";
+	    $list[] = "http://www.google.co.uz";
+	    $list[] = "http://facebook.com";
+	    $list[] = "http://www.google.co.ve";
+	    $list[] = "http://www.google.com.vn";
+	    $list[] = "http://www.google.co.zm";
+        
+
+		$acak = array_rand($list,1);
+		return $list[$acak];
+	}
+
+	public function jalankan() {
+		$this->xflush();
+
+		$this->curl();
+		return $this->acakReferer(); 
+
+		$this->xflush();
+	}
+
+} 
+
+for($i = 1; $i < $max+1; $i++) {
+	$class = new autovisitor($url);
+	echo $i.". [200OK] SUKSES MENGIRIM ~ [".$class->jalankan()."]\n";
+}
+?>
