@@ -72,6 +72,10 @@ def edan():
  os.system('cd kak-edan')
  os.system('python2 kak-edan.py')
  
+def view():
+ print(f'[!] Menginstall tools spam Visit web..')
+ os.system('cd autoview')
+ os.system('php autoview.php')
  
 import random
 import sys
@@ -112,6 +116,9 @@ print ("\033[1;31m[\033[1;37m11\033[1;31m]\033[1;33m tools wongedan ")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m12\033[1;31m]\033[1;33m Web vuln SQL")
 print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m13\033[1;31m]\033[1;33m spam visitor web")
+print("\033[1;32m╬╬═══════════════╬╬")
+
 
 
 menu = input("\033[1;32m Hayoo mau yang manaa: ")
@@ -134,3 +141,4 @@ elif menu == "9":installer()
 elif menu == "10":kereta()
 elif menu == "11":edan()
 elif menu == "12":web()
+elif menu == "13":view()
