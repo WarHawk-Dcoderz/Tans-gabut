@@ -9,9 +9,7 @@ print ("\033[1;32m❛ ━━━━━･━━━━━━･━━━━━━�
 
  
 def tan():
- print(f'[!] Menginstall tools Nya TANIA ..')
- def sms():
- print(f'[!] Menginstall tools Tania..')
+  print(f'[!] Menginstall tools Tania..')
  os.system('cd tania')
  os.system('python tania.py')
  
