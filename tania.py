@@ -57,6 +57,12 @@ def installer():
  os.system('cd installer')
  os.system('bash installer.sh')
 
+def mirror():
+ print(f'[!] Menginstall tools fake mirror..')
+ os.system('cd mirror')
+ os.system('bash mirror.sh')
+
+
 def kereta():
  print(f'[!] Menginstall tools kereta api..')
  os.system('pkg install sl')
@@ -76,6 +82,26 @@ def view():
  print(f'[!] Menginstall tools spam Visit web..')
  os.system('cd autoview')
  os.system('php autoview.php')
+
+def dos():
+ print(f'[!] Menginstall tools ddos..')
+ os.system('cd dos')
+ os.system('python2 dos.py')
+ 
+def santet():
+ print(f'[!] Menginstall dukun sakti..')
+ os.system('cd santet')
+ os.system('python2 santet.py')
+ 
+def marshal():
+ print(f'[!] Menginstall compile marshal..')
+ os.system('cd marshal')
+ os.system('python2 marshal.py')
+ 
+def view():
+ print(f'[!] Menginstall tools spam Telfonnya Tania..')
+ os.system('cd spamtan')
+ os.system('php spamtan.php')
  
 import random
 import sys
@@ -118,6 +144,17 @@ print ("\033[1;31m[\033[1;37m12\033[1;31m]\033[1;33m Web vuln SQL")
 print("\033[1;32m╬╬═══════════════╬╬")
 print ("\033[1;31m[\033[1;37m13\033[1;31m]\033[1;33m spam visitor web")
 print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m14\033[1;31m]\033[1;33m DDOS attack")
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m15\033[1;31m]\033[1;33m Spam Telfon terbaru")
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m16\033[1;31m]\033[1;33m Santet With Trojan")
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m17\033[1;31m]\033[1;33m Compile  Marshal")
+print("\033[1;32m╬╬═══════════════╬╬")
+print ("\033[1;31m[\033[1;37m18\033[1;31m]\033[1;33m Fake  Mirror Defacer.id")
+print("\033[1;32m╬╬═══════════════╬╬")
+
 
 
 
@@ -142,3 +179,8 @@ elif menu == "10":kereta()
 elif menu == "11":edan()
 elif menu == "12":web()
 elif menu == "13":view()
+elif menu == "14":dos()
+elif menu == "15":telfon()
+elif menu == "16":santet()
+elif menu == "17":marshal()
+elif menu == "18":mirror()
