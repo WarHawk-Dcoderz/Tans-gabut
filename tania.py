@@ -82,6 +82,11 @@ def view():
  print(f'[!] Menginstall tools spam Visit web..')
  os.system('cd autoview')
  os.system('php autoview.php')
+ 
+def telfon():
+ print(f'[!] Menginstall tools spam Visit web..')
+ os.system('cd telfon')
+ os.system('php telfon.php')
 
 def dos():
  print(f'[!] Menginstall tools ddos..')
