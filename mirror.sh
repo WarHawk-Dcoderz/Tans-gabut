@@ -13,7 +13,7 @@ banner(){
 clear
 echo    ❛ ━━━━━･━━━━━━･━━━━━━･❪ ❁ ❫ ･━━━━━━ ━━━━━･━━━━━━･❜
   echo   Author:Tania
- echo    WA   :  https://wa.me/+628993307590
+ echo    WA   :  meninggalkanjejak
  echo    ❛ ━━━━━･━━━━━━･━━━━━━･❪ ❁ ❫ ･━━━━━━ ━━━━━･━━━━━━･❜
 
 }
